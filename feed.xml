@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Feed Berita Terkini</title>
+    <link>https://hendri1815.github.io/</link>
+    <description>Berita pilihan dari Indonesia</description>
+    <language>id</language>
+    <item>
+      <title>Osiris 2025: Teknologi Baru</title>
+      <link>https://tv2.naijatelegraph.com/osiris-2025/</link>
+      <guid>https://tv2.naijatelegraph.com/osiris-2025/</guid>
+      <pubDate>Thu, 01 Aug 2025 10:00:00 +0700</pubDate>
+      <description><![CDATA[Kabar terbaru seputar teknologi Osiris 2025 telah hadir. Baca selengkapnya di situs kami.]]></description>
+    </item>
+  </channel>
+</rss>
